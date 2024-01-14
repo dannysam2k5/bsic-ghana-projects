@@ -1,0 +1,7 @@
+USERID=system/oracle
+DIRECTORY=BSIC_EXPORT
+DUMPFILE=bsic01dump.dmp
+GRANTS=y
+INDEXES=y
+SCHEMAS=bsic01
+LOGFILE=bsic_export.log
